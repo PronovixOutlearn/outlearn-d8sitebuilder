@@ -1,0 +1,33 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "d8-sitebuilder-path",
+      "title" : "The Drupal 8 Beginner Class",
+      "description" : "Welcome to our complete, free beginner class on using Drupal 8. This class was created by the team at http://OSTraining.com and made possible through the sponsorship of http://Acquia.com. It was brought to http://Outlearn.com for you by http://Pronovix.com.",
+      "privacy" : "public",
+      "coverImage" : "./assets/drupal 8 logo inline RGB 300.jpg",
+      "coverColor" : "#28a9e0",
+      "pages" : [
+        {"module" : "plan"},
+        {"module" : "install"},
+        {"module" : "content"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/plan.md"},
+    {"olm" : "./modules/install.md"},
+    {"olm" : "./modules/content.md"}
+  ],
+
+  "assets" : [
+    {
+      "name" : "d8logo-inline",
+      "contentType" : "image/jpeg",
+      "location" : "assets/drupal 8 logo inline RGB 300.jpg"
+    }
+  ]
+}
