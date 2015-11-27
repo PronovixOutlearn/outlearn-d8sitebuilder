@@ -12,7 +12,13 @@
       "pages" : [
         {"module" : "plan"},
         {"module" : "install"},
-        {"module" : "content"}
+        {"module" : "content-a"},
+        {"module" : "extend-a"},
+        {"module" : "content-b"},
+        {"module" : "extend-b"},
+        {"module" : "layout"},
+        {"module" : "people"},
+        {"module" : "manage"}
       ]
     }
   ],
@@ -20,7 +26,13 @@
   "modules" : [
     {"olm" : "./modules/plan.md"},
     {"olm" : "./modules/install.md"},
-    {"olm" : "./modules/content.md"}
+    {"olm" : "./modules/content-a.md"},
+    {"olm" : "./modules/extend-a.md"},
+    {"olm" : "./modules/content-b.md"},
+    {"olm" : "./modules/extend-b.md"},
+    {"olm" : "./modules/layout.md"},
+    {"olm" : "./modules/people.md"},
+    {"olm" : "./modules/manage.md"}
   ],
 
   "assets" : [

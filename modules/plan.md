@@ -5,7 +5,7 @@
 "title" : "Plan",
 "description" : "Drupal 8 Beginner, Part 1: Plan",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
-"freshnessDate" : 2015-11-26,
+"freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"
 }
 -->
