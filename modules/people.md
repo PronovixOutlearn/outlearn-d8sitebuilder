@@ -12,9 +12,9 @@
 
 <!-- @section, "title" : "Lesson 55: People Management " -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=0aVOvbjqsqM" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/0aVOvbjqsqM" -->
 
 <!-- @section, "title" : "Lesson 56: Setting Up the Summer Intern " -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=KF6jRgMV5yo" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/KF6jRgMV5yo" -->
 

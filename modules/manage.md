@@ -12,25 +12,25 @@
 
 <!-- @section, "title" : "Lesson 57: Reports and Help Menu" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=JOS5DVaZ7wQ" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/JOS5DVaZ7wQ" -->
 
 <!-- @section, "title" : "Lesson 58: Updating Drupal" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=KakwUL6Mfvc" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/KakwUL6Mfvc" -->
 
 <!-- @section, "title" : "Lesson 59: Updating Modules and Themes" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=jgEIN_Z8MIw" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/jgEIN_Z8MIw" -->
 
 <!-- @section, "title" : "Lesson 60: Drupal.org & the Community" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=0acmpCNpy2Y" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/0acmpCNpy2Y" -->
 
 <!-- @section, "title" : "Lesson 61: The Drupal Assocation" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=aztMnaCR2S0" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/aztMnaCR2S0" -->
 
 <!-- @section, "title" : "Lesson 62: Final Thoughts " -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=UkzbkUJNiqs" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/UkzbkUJNiqs" -->
 

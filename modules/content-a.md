@@ -12,12 +12,12 @@
 
 <!-- @section, "title" : "Lesson 9: Drupal Content" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=r2JNo-lNirs" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/r2JNo-lNirs" -->
 
 <!-- @section, "title" : "Lesson 10: Structure" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=bgwa1Kaeq8A" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/bgwa1Kaeq8A" -->
 
 <!-- @section, "title" : "Lesson 11: Appearance" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=nkO0h7r8ym0" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/nkO0h7r8ym0" -->

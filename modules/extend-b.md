@@ -12,20 +12,20 @@
 
 <!-- @section, "title" : "Lesson 42: Introduction to Modules " -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=mFAnkdCBLMA" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/mFAnkdCBLMA" -->
 
 <!-- @section, "title" : "Lesson 43: The Book Module" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=UuItYbS9Rlo" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/UuItYbS9Rlo" -->
 
 <!-- @section, "title" : "Lesson 44: The Forum Module" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=qIpzADe0RoI" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/qIpzADe0RoI" -->
 
 <!-- @section, "title" : "Lesson 45: The Telephone Module" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=6dgL1lNj5Kw" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/6dgL1lNj5Kw" -->
 
 <!-- @section, "title" : "Lesson 46: Finding and Evaluating Modules" -->
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=sC3Nh1yWPds" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/sC3Nh1yWPds" -->
