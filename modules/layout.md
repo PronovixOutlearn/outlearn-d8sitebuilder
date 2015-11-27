@@ -2,8 +2,8 @@
 {
 "name" : "layout",
 "version" : "0.1",
-"title" : "Layout",
-"description" : "Drupal 8 Beginner, Part 3: Content",
+"title" : "Layout and themes",
+"description" : "Drupal 8 Beginner, Part 7: Site layout and themes.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

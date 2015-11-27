@@ -2,8 +2,8 @@
 {
 "name" : "people",
 "version" : "0.1",
-"title" : "People",
-"description" : "Drupal 8 Beginner, Part 3: Content",
+"title" : "Managing users",
+"description" : "Drupal 8 Beginner, Part 8: Managing users, assigning roles and permissions.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

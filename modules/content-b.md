@@ -2,8 +2,8 @@
 {
 "name" : "content-b",
 "version" : "0.1",
-"title" : "Content_B",
-"description" : "Drupal 8 Beginner, Part 3: Content",
+"title" : "Dealing with content - Part II.",
+"description" : "Drupal 8 Beginner, Part 5: Content.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

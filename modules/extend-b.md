@@ -2,8 +2,8 @@
 {
 "name" : "extend-b",
 "version" : "0.1",
-"title" : "Extend_B",
-"description" : "Drupal 8 Beginner, Part 3: Content",
+"title" : "Extending Drupal - Part II.",
+"description" : "Drupal 8 Beginner, Part 6: Modules in general, the Book module, the Forum module, the Telephone module. Finding and evaluating modules.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

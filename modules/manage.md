@@ -2,8 +2,8 @@
 {
 "name" : "manage",
 "version" : "0.1",
-"title" : "Manage",
-"description" : "Drupal 8 Beginner, Part 3: Content",
+"title" : "Site management",
+"description" : "Drupal 8 Beginner, Part 9: Site management, Updates, Drupal Community, Final thoughts.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

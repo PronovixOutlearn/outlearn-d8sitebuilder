@@ -2,8 +2,8 @@
 {
 "name" : "plan",
 "version" : "0.1",
-"title" : "Plan",
-"description" : "Drupal 8 Beginner, Part 1: Plan",
+"title" : "Plan: Introduction to the course and Drupal",
+"description" : "Drupal 8 Beginner, Part 1: Introduction to the course and Drupal, What are the benefits of using Drupal, Review of prerequisites",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

@@ -2,8 +2,8 @@
 {
 "name" : "install",
 "version" : "0.1",
-"title" : "Install",
-"description" : "Drupal 8 Beginner, Part 2: Install",
+"title" : "Installing the development environment and our first site",
+"description" : "Drupal 8 Beginner, Part 2: Installing Acquia's Dev Desktop, Setting up hosting, Navigation in a newly installed site.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

@@ -2,8 +2,8 @@
 {
 "name" : "content-a",
 "version" : "0.1",
-"title" : "Content_A",
-"description" : "Drupal 8 Beginner, Part 3: Content",
+"title" : "Dealing with content - Part I.",
+"description" : "Drupal 8 Beginner, Part 3: Content - Part I: How content is structured and displayed in Drupal.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"

@@ -2,8 +2,8 @@
 {
 "name" : "extend-a",
 "version" : "0.1",
-"title" : "Extend_A",
-"description" : "Drupal 8 Beginner, Part 3: Content",
+"title" : "Extending Drupal - Part I.",
+"description" : "Drupal 8 Beginner, Part 4: Extending Drupal, Configuration, Managing Users, Site reports.",
 "homepage" : "https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO",
 "freshnessDate" : 2015-11-27,
 "license" : "Standard YouTube License"
