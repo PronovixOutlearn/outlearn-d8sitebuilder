@@ -13,6 +13,7 @@
 <!-- @section, "title" : "Lesson 1: Introduction to the Course" -->
 
 Welcome! This is the introduction to the Absolute Beginner's Guide to Drupal 8, created by http://OSTraining.com. We're pleased to present this course in partnership with http://Acquia.com.
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/-DYSucV1_9w" -->
 
 <!-- @section, "title" : "Lesson 2: Introduction to Drupal" -->
