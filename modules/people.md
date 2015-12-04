@@ -12,9 +12,13 @@
 
 <!-- @section, "title" : "Lesson 55: People Management " -->
 
+This next section of our tutorial videos will talk about People Management. 
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/0aVOvbjqsqM" -->
 
 <!-- @section, "title" : "Lesson 56: Setting Up the Summer Intern " -->
+
+Learn about user roles and permissions. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/KF6jRgMV5yo" -->
 
