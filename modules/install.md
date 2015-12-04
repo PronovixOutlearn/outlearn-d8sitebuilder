@@ -11,7 +11,7 @@
 -->
 
 <!-- @section, "title" : "Lesson 5: Installing Acquia's Dev Desktop" -->
-
+Rod introduces you to Acquia Dev Desktop which is a very quick and easy way to install Drupal on your computer. Acquia Dev Desktop is available for Mac and PC.
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/4kvYfxOR3GY" -->
 
 <!-- @section, "title" : "Lesson 6: Installing Drupal on Acquia Cloud" -->
