@@ -132,26 +132,36 @@ Learn about the Teaser view.
 
 <!-- @section, "title" : "Lesson 36: Introduction to Views" -->
 
-
+We've got our content in, but how about getting it out? Get introduced to Views. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/C58NH8xb4BA" -->
 
 <!-- @section, "title" : "Lesson 37: A Page with Teasers " -->
 
+Now that we now what Views is and does, let's go ahead and create some views. First example: a page with teasers. 
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/jjQsN18anSs" -->
 
 <!-- @section, "title" : "Lesson 38: A Simple Block View " -->
+
+Views example: a simple block view. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/ya8_koKb4S0" -->
 
 <!-- @section, "title" : "Lesson 39: A Table with Fields " -->
 
+Views example: a table with fields. 
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/IAC8X6KQq60" -->
 
 <!-- @section, "title" : "Lesson 40: Image Styles " -->
 
+How to use image styles to manipulate the scale and size of your images so that they fit the different needs of your site. 
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/9kuHA0ys5YA" -->
  
 <!-- @section, "title" : "Lesson 41: A Photo Gallery View " -->
+
+Views example: photo gallery. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/JsT_Ig7KC4Y" -->
