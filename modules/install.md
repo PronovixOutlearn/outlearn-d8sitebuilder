@@ -30,6 +30,6 @@ See how to install Drupal yourself with a hosting company. We'll download Drupal
 
 <!-- @section, "title" : "Lesson 8: Navigating a Fresh Installation" --> 
 
-In this video, Rod gives you an overview of a new Drupal installation. Rod explains that your will be "User 1" (a super user) on your new site, with full access to all of Drupal's functionality. He also introduces the administration toolbar and shortcuts that you'll use to manage your site.
+In this video, Rod gives you an overview of a new Drupal installation. Rod explains that you will be "User 1" (a super user) on your new site, with full access to all of Drupal's functionality. He also introduces the administration toolbar and shortcuts that you'll use to manage your site.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/6b5AHtsHR_c" -->
