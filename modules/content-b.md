@@ -102,29 +102,37 @@ In this video we'll dive into managing content: Finding previously created conte
 
 <!-- @section, "title" : "Lesson 31: Revisions" -->
 
-See how revisions work. 
+Let's edit our content and see how revisions work. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/Xn3FIK9NUGY" -->
 
 <!-- @section, "title" : "Lesson 32: Creating Content with Devel " -->
 
-
+When developing your site, you will need a lot of content to set up layouts, views and design. However, you don't really want to use real content, because if there is a problem, you would have to go and edit real content, wasting a lot of time. This video walks you through creating fake content with the Devel module. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/_DEbmgqPzts" -->
 
 <!-- @section, "title" : "Lesson 33: Introduction to Displays " -->
 
+Now that we have all this great content, it's time to see how Drupal renders it to the page. 
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/ptnMtgyc1t0" -->
  
 <!-- @section, "title" : "Lesson 34: Managing the Full Content Display " -->
+
+Learn about the Full Content view. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/wIFIjbO0mLg" -->
 
 <!-- @section, "title" : "Lesson 35: Managing the Teaser Display " -->
 
+Learn about the Teaser view. 
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/HpLMzkxd2LU" -->
 
 <!-- @section, "title" : "Lesson 36: Introduction to Views" -->
+
+
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/C58NH8xb4BA" -->
 
