@@ -12,6 +12,6 @@
 
 <!-- @section, "title" : "Lesson 1: Introduction to the Course" -->
 
-Welcome! This learning path is based mainly on the video series by http://OSTraining.com. Creation of the course has been supported by http://Acquia.com and it is meant to introduce Drupal to the absolute beginners. This course will give you an idea about the advantages of using a content management system and and guide you through Drupal 8's new features. However the series might be best used by beginners, those who already know Drupal can also benefit from it by receiving a comprehensive list of the exciting new functionality they might benefit from when starting to use Drupal 8.
+Welcome! This learning path is based on the video series by http://OSTraining.com, supported by http://Acquia.com. The course introduces Drupal to absolute beginners. This learning path will give you an idea about the advantages of using a content management system and guide you through Drupal 8's new features. Although the series might be most useful for beginners, those who already know Drupal can also benefit from having a comprehensive list of the exciting new functionality Drupal 8 offers. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/-DYSucV1_9w" -->
