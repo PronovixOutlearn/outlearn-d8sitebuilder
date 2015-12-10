@@ -28,7 +28,7 @@ Let's do a little bit more practice on Block layouts.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/gGjnDkmaT2U" -->
 
-<!-- @task, "text" : "Add a few custom blocks and place them to different regions on your site." -->
+<!-- @task, "text" : "Add a few custom blocks and place them in different regions of your site." -->
 
 <!-- @section, "title" : "Lesson 50: Menu Management" -->
 
@@ -36,7 +36,7 @@ As we've been adding menus to our site, they're of course out of order. Let's se
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/CE2QeViRmDo" -->
 
-<!-- @task, "text" : "Add new menu items into the Main menu on your site." -->
+<!-- @task, "text" : "Add new menu items into the Main menu of your site." -->
 
 <!-- @section, "title" : "Lesson 51: Introduction to Themes" -->
 
@@ -62,4 +62,4 @@ Get introduced to Adaptive Themes and Omega, two awesome theme frameworks for Dr
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/-EsgAnDeKFQ" -->
 
-<!-- @task, "text" : "Install, enable and set Pixture Reloaded theme as the default theme on your site." -->
+<!-- @task, "text" : "Install, enable and set Pixture Reloaded theme as the default theme of your site." -->
