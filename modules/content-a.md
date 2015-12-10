@@ -16,7 +16,7 @@ This video explains how content works in Drupal. You'll see the main content, co
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/r2JNo-lNirs" -->
 
-<!-- @task, "text" : "Create an Article content in your newly installed site." -->
+<!-- @task, "text" : "Create an Article on your newly installed site." -->
 
 <!-- @section, "title" : "Lesson 10: Structure" -->
 
@@ -24,7 +24,7 @@ In this video, Rod introduces the Structure tab in Drupal 8. This is where you b
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/bgwa1Kaeq8A" -->
 
-<!-- @task, "text" : "Create an Block and place it into the sidebar." -->
+<!-- @task, "text" : "Create a Block and place it into the sidebar." -->
 
 <!-- @section, "title" : "Lesson 11: Appearance" -->
 
