@@ -3,7 +3,7 @@
 Greetings! Welcome to The Drupal 8 Beginner Class!
 
 This class was originally created by the team at http://OSTraining.com and made possible through the sponsorship of http://Acquia.com. 
-We have adapted it for an Outlearn learning path to help you learn more about the changes and new features Drupal 8 is bringing.
+We have adapted it for an Outlearn learning path to help site builders learn about the changes and new features Drupal 8 is bringing.
 
 Good luck!
 
