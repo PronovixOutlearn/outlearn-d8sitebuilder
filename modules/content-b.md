@@ -34,6 +34,8 @@ This video introduces you to Inline Editing, a great new feature in Drupal 8. Wh
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/N0v9_IQJjzE" -->
 
+<!-- @task, "text" : "Update your already existing Article using the inline editing fetaure." -->
+
 <!-- @section, "title" : "Lesson 20: Using CKEditor" -->
 
 Drupal 7 didn't ship with a WYSIWYG text editor. Drupal 8 does. Let Rod introduce you to CKEditor in this video. You'll be able to add formatting to your content, add links and add images.
@@ -130,6 +132,8 @@ Learn about the Teaser view.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/HpLMzkxd2LU" -->
 
+<!-- @task, "text" : "Create a content type with several different fields. For an idea this can be one for storing T-Shirt information for a T-Shirt store." -->
+
 <!-- @section, "title" : "Lesson 36: Introduction to Views" -->
 
 We've got our content in, but how about getting it out? Get introduced to Views. 
@@ -165,3 +169,5 @@ How to use image styles to manipulate the scale and size of your images so that 
 Views example: photo gallery. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/JsT_Ig7KC4Y" -->
+
+<!-- @task, "text" : "Create a view block that lists your T-Shirts (if you chose to stick to the example) and display the block on the frontpage of your site." -->

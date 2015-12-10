@@ -39,3 +39,5 @@ Turn on the Telephone module to be able to add Telephone number fields to your c
 How to find and evaluate modules on drupal.org/project/modules. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/sC3Nh1yWPds" -->
+
+<!-- @task, "text" : "Try out a few modules. https://www.drupal.org/project/admin_toolbar and https://www.drupal.org/project/metatag could be good ones for a start." -->
