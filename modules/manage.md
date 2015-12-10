@@ -42,7 +42,7 @@ The Drupal Association is the non-profit association that helps Drupal grow.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/aztMnaCR2S0" -->
 
-<!-- @task, "text" : "Find a Drupal User Group near you and get involved in the Community if you feel like to: https://groups.drupal.org." -->
+<!-- @task, "text" : "Find a Drupal User Group near you and get involved in the Community if you have the chance: https://groups.drupal.org." -->
 
 <!-- @section, "title" : "Lesson 62: Final Thoughts " -->
 
