@@ -16,14 +16,20 @@ This video explains how content works in Drupal. You'll see the main content, co
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/r2JNo-lNirs" -->
 
+<!-- @task, "text" : "Create an Article content in your newly installed site." -->
+
 <!-- @section, "title" : "Lesson 10: Structure" -->
 
 In this video, Rod introduces the Structure tab in Drupal 8. This is where you build the core functionality of your site. Most of your site-building features in Drupal 8 are available here. You'll create your first block and place it into a region of your theme.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/bgwa1Kaeq8A" -->
 
+<!-- @task, "text" : "Create an Block and place it into the sidebar." -->
+
 <!-- @section, "title" : "Lesson 11: Appearance" -->
 
 In this video, Rod introduces you to the Appearance page in Drupal 8, covering themes and their settings.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/nkO0h7r8ym0" -->
+
+<!-- @task, "text" : "Change the color scheme of the site's theme. Use Bartik for testing." -->

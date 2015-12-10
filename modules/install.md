@@ -16,9 +16,13 @@ Rod introduces you to Acquia Dev Desktop which is a very quick and easy way to i
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/4kvYfxOR3GY" -->
 
+<!-- @task, "text" : "Install Acquia Dev Desktop (http://www.acquia.com/downloads) if you are on a Mac or a PC." -->
+
 <!-- @section, "title" : "Lesson 6: Installing Drupal on Acquia Cloud" -->
 
 In this video, Rod shows you how to install Drupal at http://acquia.com. This is a free way to try Drupal. You won't need to install anything on your server or on your computer.
+
+<!-- @task, "text" : "Register a free account and install Drupal on Acquia cloud." -->
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/R-JTYeOwO5c" -->
 
@@ -33,3 +37,5 @@ See how to install Drupal yourself with a hosting company. We'll download Drupal
 In this video, Rod gives you an overview of a new Drupal installation. Rod explains that you will be "User 1" (a super user) on your new site, with full access to all of Drupal's functionality. He also introduces the administration toolbar and shortcuts that you'll use to manage your site.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/6b5AHtsHR_c" -->
+
+<!-- @task, "text" : "Click around on the administration interface of your newly installed site. Create a few Shortcuts that you think might be useful." -->

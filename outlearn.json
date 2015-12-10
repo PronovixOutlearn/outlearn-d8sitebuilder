@@ -10,20 +10,28 @@
       "coverImage" : "./assets/water-321524_1920.jpg",
       "coverColor" : "#28a9e0",
       "pages" : [
+        {"page" : "./pages/welcome.md"},
+        {"module" : "intro"},
         {"module" : "plan"},
+        {"page" : "./pages/drupal-cms.md"},
         {"module" : "install"},
+        {"page" : "./pages/drupal-install.md"},
         {"module" : "content-a"},
         {"module" : "extend-a"},
+        {"page" : "./pages/drupal-a.md"},
         {"module" : "content-b"},
         {"module" : "extend-b"},
+        {"page" : "./pages/drupal-b.md"},
         {"module" : "layout"},
         {"module" : "people"},
-        {"module" : "manage"}
+        {"module" : "manage"},
+        {"page" : "./pages/closing.md"}
       ]
     }
   ],
 
   "modules" : [
+    {"olm" : "./modules/intro.md"},
     {"olm" : "./modules/plan.md"},
     {"olm" : "./modules/install.md"},
     {"olm" : "./modules/content-a.md"},
