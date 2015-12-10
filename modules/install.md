@@ -22,9 +22,9 @@ Rod introduces you to Acquia Dev Desktop which is a very quick and easy way to i
 
 In this video, Rod shows you how to install Drupal at http://acquia.com. This is a free way to try Drupal. You won't need to install anything on your server or on your computer.
 
-<!-- @task, "text" : "Register a free account and install Drupal on Acquia cloud." -->
-
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/R-JTYeOwO5c" -->
+
+<!-- @task, "text" : "Register a free account and install Drupal on Acquia cloud." -->
 
 <!-- @section, "title" : "Lesson 7: Manual Installation at a Web Host" --> 
 
