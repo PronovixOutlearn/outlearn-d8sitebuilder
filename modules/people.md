@@ -22,3 +22,4 @@ Learn about user roles and permissions.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/KF6jRgMV5yo" -->
 
+<!-- @task, "text" : "Create a Role, add a new User, and assign the Role to the User." -->

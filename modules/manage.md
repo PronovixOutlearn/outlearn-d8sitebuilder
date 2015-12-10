@@ -16,6 +16,8 @@ Let's talk about site management: Reports and Help.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/JOS5DVaZ7wQ" -->
 
+<!-- @task, "text" : "Check the log messages on your site's Reports page." -->
+
 <!-- @section, "title" : "Lesson 58: Updating Drupal" -->
 
 Updating Drupal is not the one-click kind of update that you might be familiar with if you've used some of the other CMSs, and there's a lot of reasons for that. 
@@ -39,6 +41,8 @@ Learn about the fantastic resources available at Drupal.org.
 The Drupal Association is the non-profit association that helps Drupal grow. 
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/aztMnaCR2S0" -->
+
+<!-- @task, "text" : "Find a Drupal User Group near you and get involved in the Community if you feel like to: https://groups.drupal.org." -->
 
 <!-- @section, "title" : "Lesson 62: Final Thoughts " -->
 
